@@ -1,3 +1,5 @@
 Hello, world!
 
 This is a test for the commit editor.
+
+This line a fetch merge test.
