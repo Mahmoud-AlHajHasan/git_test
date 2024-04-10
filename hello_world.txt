@@ -3,3 +3,4 @@ Hello, world!
 This is a test for the commit editor.
 
 This line is a fetch/merge test.
+This is for another test.
